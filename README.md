@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Tirthoraj
+# Hi there! 👋
 
 <!--
 <div align="center">
