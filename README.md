@@ -8,7 +8,7 @@
 
 ## 🎯 Who Am I ?
 
-🎓 **M.Tech student** at IIIT Allahabad with 5+ years of TCS experience - because who doesn't love mixing academia with real-world chaos? 📚💼
+🎓 **M.Tech student** at IIIT Allahabad with few years of TCS experience - because who doesn't love mixing academia with real-world chaos? 📚💼
 
 💡 **Creating impactful solutions** that hopefully won't break in production (fingers crossed! 🤞)
 
